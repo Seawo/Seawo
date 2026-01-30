@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://camo.githubusercontent.com/c8246e79a15bef5db26bf4bb65f7fb4bb9ed51713a6793ae5a0a2d29e2b737ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d556e7265616c253230456e67696e652d3030303f266c6f676f3d556e7265616c2d456e67696e65266c6f676f436f6c6f723d464646464646)">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
 
